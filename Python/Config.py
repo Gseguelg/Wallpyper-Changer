@@ -1,0 +1,2 @@
+CONFIG_FILE_NAME = "config.json"
+LOG_LEVEL = 10  # DEBUG

@@ -1,0 +1,5 @@
+*.json
+*.log
+*.wallpyper.cache
+Wallpyper_task.xml
+__pycache__

@@ -1,0 +1,1 @@
+powershell.exe ./SchTasks/PStask.ps1
