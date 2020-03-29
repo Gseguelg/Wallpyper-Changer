@@ -46,7 +46,7 @@ En el directorio de installación es necesario crear una nuevo archivo llamado `
 # Instalación
 Installación requiere usar el **Programador de tareas de windows** y **python 3** accesible desde el path.
 
-1. [Descargalo](#How-to-download).
+1. [Descargalo](#cómo-descargar).
 2. Revisa los [requisitos](#Requisitos).
 3. Abre la carpeta **Wallpyper-Changer-master** y dale double click al _archivo batch_ `create_task.bat`. Un nuevo archivo llamado `Wallpyper_task.xml` debería ser creado.
 4. Abre el **Programador de tareas de windows** y busca la opción _**importar tarea**_. Hazle click.
